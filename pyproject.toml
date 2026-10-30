@@ -1,0 +1,12 @@
+[project]
+name = "genpark-sql-ast-tenant-schema-sharding-engine-skill"
+version = "1.0.0"
+description = "Inspects SQL AST tokens to inject tenant isolation predicates, partition keys, and routes cross-shard distributed scatter-gather queries"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Homepage = "https://www.genpark.ai"
+LinkedIn = "https://www.linkedin.com/company/92955550"
+LinkedInPage = "https://www.llinkedin.com/company/92955550"
