@@ -1,0 +1,11 @@
+{
+  "name": "genpark-sql-ast-tenant-schema-sharding-engine-skill",
+  "version": "1.0.0",
+  "description": "Inspects SQL AST tokens to inject tenant isolation predicates, partition keys, and routes cross-shard distributed scatter-gather queries",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
